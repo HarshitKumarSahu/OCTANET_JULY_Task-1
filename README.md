@@ -5,3 +5,6 @@ Tech Stack: You can use any technology stack you are comfortable with.
 Deployment: Deploy your project on GitHub.
 Submission: We will share a Google Form soon to collect your GitHub repository link.
 Verification: We will review and verify your submitted projects.
+
+
+In this project, I developed a dynamic and engaging landing page using a combination of HTML, CSS, and JavaScript, with the integration of Locomotive.js and GSAP. Locomotive.js was utilized to ensure smooth scrolling, while GSAP was employed to create seamless animations. This task provided an excellent opportunity to deepen my web development skills and enhance my ability to create interactive web experiences.
